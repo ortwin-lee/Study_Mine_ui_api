@@ -1,0 +1,19 @@
+[
+  {
+    "__type__": "cc.animation.AnimationGraphVariant",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "_graph": {
+      "__uuid__": "9a2c950f-9ecc-43d4-8068-849aa83a2d45",
+      "__expectedType__": "cc.animation.AnimationGraph"
+    },
+    "_clipOverrides": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.animation.ClipOverrideMap",
+    "_entries": []
+  }
+]
